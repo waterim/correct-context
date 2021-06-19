@@ -1,0 +1,14 @@
+button{
+    width: 100px;
+}
+
+.submitButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .spinner-border{
+        margin-left: 5px;
+    }
+}
+
